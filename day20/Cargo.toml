@@ -1,0 +1,8 @@
+[package]
+name = "day20"
+version = "0.1.0"
+authors = ["Douwe Gelling <douwe.gelling@intel.com>"]
+
+[dependencies]
+combine = "^2.5.0"
+itertools = "^0.7.4"
