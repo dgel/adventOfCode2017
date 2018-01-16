@@ -1,7 +1,6 @@
 [package]
-name = "day2"
+name = "day04"
 version = "0.1.0"
 authors = ["dgel"]
 
 [dependencies]
-itertools = "0.7.4"
